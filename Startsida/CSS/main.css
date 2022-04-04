@@ -5,6 +5,7 @@
 
 .header {
     height: 30vh;
+    width: 100%;
 }
 
 
@@ -14,14 +15,42 @@
     width: 100%;
 
     display: flex;
-    justify-content: center;
     text-align: center;
 }
 
 .mydream {
     margin: auto;
     color: rgb(126, 14, 14);
-    font-size: 58pt;
+    font-size: 68pt;
     font-family: 'Luxurious Script', cursive;
-
 }
+
+
+
+.navlist {
+ 
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+
+ list-style-type: none;
+
+ height: 7vh;
+ background-color: black;
+ 
+ color: white;
+font-size: 16pt;
+}
+
+.listitemnav {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+    width: 100%;
+
+    border: white 2px solid;
+}
+    
