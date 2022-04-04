@@ -37,7 +37,7 @@
 
  height: 7vh;
  background-color: black;
- 
+
  color: white;
 font-size: 16pt;
 }
@@ -51,6 +51,15 @@ font-size: 16pt;
     height: 100%;
     width: 100%;
 
-    border: white 2px solid;
+    border: silver 2px solid;
 }
     
+
+
+main {
+
+    height: 140vh;
+    width: 100%;
+    background-image: url(https://www.1zoom.me/big2/56/217803-Sepik.jpg);
+    
+}
